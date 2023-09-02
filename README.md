@@ -118,9 +118,9 @@ sns.boxplot(x='sepal_width',data = delid)
 ###OUTPUT:
 
 ![264048582-5cfadac2-4cf2-4619-b0b9-27803d2f64c1](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/b61725ad-6047-4619-a1d1-c0c69e0bb31f)
+![264048949-2665cd96-2268-464a-b305-6786328b3d52](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/a47345c2-c4e1-4d0f-9c67-98625c0129cf)
 73-4bb6-91c8-68bac69c5c0e](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/f3f6a5bc-3cee-431d-bbe1-6e16a3c67bb1)
 ![264048823-67ea1cdb-3812-4be6-873c-7564e981d6b8](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/0b669836-9f8d-4f90-aa49-b753c328f746)
-![264048949-2665cd96-2268-464a-b305-6786328b3d52](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/a47345c2-c4e1-4d0f-9c67-98625c0129cf)
 ![264049027-5c48f61c-28ba-4742-981e-805b6d7d950a](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/5c2a5425-1e48-45c5-a0a1-de1b052241c3)
 ![264049112-6506543c-4795-4f75-aa39-304026fe81c6](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/f228774d-0d33-4366-a61b-c05375c802ae)
 ![264049187-4ce19043-9500-4fef-a871-0318297af769](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/7a00bf78-716d-4709-aaf7-cd5e4bf5719f)
