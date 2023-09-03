@@ -135,6 +135,10 @@ sns.boxplot(x='sepal_width',data = delid)
 ![264049723-1fe40cc1-baed-4f36-96b0-3f3b5808a79a](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/08fa14c4-b04a-4d27-a7de-290859c600b5)
 ![264049757-053fd045-ff07-423b-8565-0276467e2bab](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/124013a6-95b7-4a2b-88b7-d9c43af0cbd7)
 
+Result:
+
+Hence the given set of data is read and the outliers are removed using the IQR method and Zscore method.
+
 
 
 
