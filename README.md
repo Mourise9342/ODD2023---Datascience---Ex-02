@@ -13,6 +13,7 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 
 (ii) Using IQR, detect height outliers and print them
 
+```
 ##ALGORITHM
 
 STEP 1
@@ -117,6 +118,7 @@ delid = id[~((id.sepal_width<(c1-1.5*iq)) | (id.sepal_width>(c3+1.5*iq)))]
 delid
 
 sns.boxplot(x='sepal_width',data = delid)
+```
 
 ###OUTPUT:
 ![264048582-5cfadac2-4cf2-4619-b0b9-27803d2f64c1](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/1819a618-21eb-42fa-ae84-89b3ccc7cf78)
