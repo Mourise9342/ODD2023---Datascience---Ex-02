@@ -32,6 +32,9 @@ For the data set height_weight.csv to find the following; (i) Using IQR detect w
 
 ##PROGRAM
 
+NAME:Mourise jane S
+REG NO:212222230085
+
 import pandas as pd
 import seaborn as sns
 
@@ -116,20 +119,21 @@ delid
 sns.boxplot(x='sepal_width',data = delid)
 
 ###OUTPUT:
+![264048582-5cfadac2-4cf2-4619-b0b9-27803d2f64c1](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/1819a618-21eb-42fa-ae84-89b3ccc7cf78)
+![264048779-939c364d-fe73-4bb6-91c8-68bac69c5c0e](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/c6aaaf23-eaca-4f72-bc3d-15e4827b2fef)
+![264048823-67ea1cdb-3812-4be6-873c-7564e981d6b8](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/731416f6-6293-4a1b-9f54-78ae77f80cb0)
+![264048949-2665cd96-2268-464a-b305-6786328b3d52](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/dc46a5bc-5e07-4d1b-8281-3233fe44e783)
+![264049027-5c48f61c-28ba-4742-981e-805b6d7d950a](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/9592f814-1d9e-4bb6-8605-018408d00259)
+![264049112-6506543c-4795-4f75-aa39-304026fe81c6](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/3d6d2104-4bae-4944-97f2-047d5fae427b)
+![264049187-4ce19043-9500-4fef-a871-0318297af769](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/a12ab27e-9580-4b8f-9edd-40754722951e)
+![264049370-0e391fe4-4405-4536-ada5-4362d417ef80](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/55dc8176-e0d9-43b4-b989-7b502d7b139b)
+![264049461-c3a02353-e146-4933-bd2f-fc40a4004e48](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/fc80f1c7-9bf0-4d94-ac9f-668d9dc75b75)
+![264049571-995eec4a-8dc7-4ed8-b6e1-f131d9ad20a9](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/113727cb-0521-4a06-927b-e39fd8000cd9)
+![264049648-a6a88214-f01f-42bf-a65d-24534ad13b38](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/aa031ebf-3843-4edd-a885-3639918305dc)
+![264049723-1fe40cc1-baed-4f36-96b0-3f3b5808a79a](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/08fa14c4-b04a-4d27-a7de-290859c600b5)
+![264049757-053fd045-ff07-423b-8565-0276467e2bab](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/124013a6-95b7-4a2b-88b7-d9c43af0cbd7)
 
-![264048582-5cfadac2-4cf2-4619-b0b9-27803d2f64c1](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/b61725ad-6047-4619-a1d1-c0c69e0bb31f)
-![264048949-2665cd96-2268-464a-b305-6786328b3d52](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/a47345c2-c4e1-4d0f-9c67-98625c0129cf)
-73-4bb6-91c8-68bac69c5c0e](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/f3f6a5bc-3cee-431d-bbe1-6e16a3c67bb1)
-![264048823-67ea1cdb-3812-4be6-873c-7564e981d6b8](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/0b669836-9f8d-4f90-aa49-b753c328f746)
-![264049027-5c48f61c-28ba-4742-981e-805b6d7d950a](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/5c2a5425-1e48-45c5-a0a1-de1b052241c3)
-![264049112-6506543c-4795-4f75-aa39-304026fe81c6](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/f228774d-0d33-4366-a61b-c05375c802ae)
-![264049187-4ce19043-9500-4fef-a871-0318297af769](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/7a00bf78-716d-4709-aaf7-cd5e4bf5719f)
-![264049370-0e391fe4-4405-4536-ada5-4362d417ef80](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/0c78b325-845f-48bd-803d-f86023aaee5a)
-![264049461-c3a02353-e146-4933-bd2f-fc40a4004e48](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/253b0951-b584-4792-95a7-fad6b7e92aca)
-![264049571-995eec4a-8dc7-4ed8-b6e1-f131d9ad20a9](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/2d1e00bd-34ba-4ed4-90ca-ad1270a17c04)
-![264049648-a6a88214-f01f-42bf-a65d-24534ad13b38](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/edfc2948-5381-4c25-b103-1488cec977f4)
-![264049723-1fe40cc1-baed-4f36-9![264049757-053fd045-ff07-423b-8565-0276467e2bab](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/46862c8c-4f45-429c-9462-fc12eaecda01)
-6b0-3f3b5808a79a](https://github.com/Mourise9342/ODD2023---Datascience---Ex-02/assets/120081893/dbad41ce-56d1-468b-9cc0-93e91a2b32ff)
+
 
 
 
